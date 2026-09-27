@@ -232,4 +232,4 @@ This repository serves as the official landing page for WinAVI Video Converter. 
 **Get the most recent version of WinAVI Video Converter today!**
 
 ---
-**Last updated:** 2026-09-27 14:25:23 UTC
+**Last updated:** 2026-09-27 18:46:31 UTC
